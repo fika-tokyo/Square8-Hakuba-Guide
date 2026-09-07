@@ -7,7 +7,7 @@
 
 ## 移行先
 
-- [`apps/hakuba/square8-guide`](https://github.com/fika-tokyo/FikaHub/tree/main/apps/hakuba/square8-guide)
+- [`apps/yamaai-crew/all-company/all/square8-guide`](https://github.com/fika-tokyo/FikaHub/tree/main/apps/yamaai-crew/all-company/all/square8-guide)
 
 ## このリポジトリを変更できる例外
 
